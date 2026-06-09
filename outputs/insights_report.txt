@@ -1,0 +1,39 @@
+=================================================================
+  BITCOIN SENTIMENT vs TRADER PERFORMANCE — KEY INSIGHTS
+=================================================================
+
+📊 1. PnL BY SENTIMENT
+Sentiment              Trades     Mean PnL   Win Rate
+-------------------------------------------------------
+Extreme Fear           10,406 $     71.03      76.2%
+Fear                   29,808 $    112.63      87.3%
+Neutral                18,159 $     71.20      82.4%
+Greed                  25,176 $     85.40      76.9%
+Extreme Greed          20,853 $    130.21      89.2%
+
+📈 2. CORRELATION (Fear/Greed Index vs Closed PnL)
+  Pearson  r = +0.0081  (p=0.0002)
+  Spearman r = +0.0381  (p=0.0000)
+
+💧 3. TRADING VOLUME BY SENTIMENT
+Sentiment              Volume (USD M)    Avg Trade $
+-------------------------------------------------------
+Extreme Fear         $         114.5M $       5,350
+Fear                 $         483.3M $       7,816
+Neutral              $         180.2M $       4,783
+Greed                $         288.6M $       5,737
+Extreme Greed        $         124.5M $       3,112
+
+⚡ 4. LIQUIDATIONS BY SENTIMENT
+  Extreme Fear              0 events
+  Fear                      0 events
+  Neutral                   0 events
+  Greed                     1 events
+  Extreme Greed             0 events
+
+=================================================================
+  STRATEGIC TAKEAWAYS
+=================================================================
+  • Best avg PnL during  : Extreme Greed
+  • Worst avg PnL during : Extreme Fear
+  • Sentiment-PnL corr   : positive (significant)
