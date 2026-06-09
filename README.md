@@ -68,24 +68,6 @@ That's it. The script will:
 | `06_scatter_fg_vs_pnl.png` | Scatter: F&G value vs daily PnL + trend line |
 | `07_liquidations_by_sentiment.png` | Liquidation events per sentiment |
 
----
-
-## Key Research Questions Answered
-
-1. **Do traders profit more during Fear or Greed?**  
-   → `01_pnl_by_sentiment.png` + insights report section 1
-
-2. **Is there a statistically significant correlation between sentiment and PnL?**  
-   → Pearson & Spearman correlation in insights report section 2
-
-3. **When is trading volume highest?**  
-   → `02_volume_by_sentiment.png`
-
-4. **Which sentiment leads to most liquidations?**  
-   → `07_liquidations_by_sentiment.png`
-
-5. **How do top traders adapt to sentiment?**  
-   → `05_top_traders_heatmap.png`
 
 ---
 
